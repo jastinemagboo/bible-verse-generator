@@ -78,7 +78,7 @@ export default function VerseCard() {
       <div className="flex flex-wrap items-center justify-end gap-2">
         <button
           onClick={nextRandom}
-          className="inline-flex items-center gap-2 rounded-md bg-gray-700 px-3 py-3 text-xs font-[var(--font-ui)] text-white shadow-xl"
+          className="inline-flex items-center gap-2 rounded-md bg-gray-700 px-4 py-4 text-xs font-[var(--font-ui)] text-white shadow-xl"
         >
           <BookOpen className="h-4 w-4" />
           New verse
@@ -86,7 +86,7 @@ export default function VerseCard() {
 
         <button
           onClick={copyVerse}
-          className="inline-flex items-center gap-2 rounded-md border px-3 py-3 text-xs font-[var(--font-ui)] text-gray-800 shadow-xl hover:shadow-2xl"
+          className="inline-flex items-center gap-2 rounded-md border px-4 py-4 text-xs font-[var(--font-ui)] text-gray-800 shadow-xl hover:shadow-2xl"
           title="Copy (shortcut: C)"
         >
           <Copy className="h-4 w-4" />

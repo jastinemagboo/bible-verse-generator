@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "reference": "John 3:16",
+    "meaning": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+    "description": "God's love and salvation are offered to everyone through Jesus."
+  },
+  {
+    "id": 2,
+    "reference": "Psalm 23:1",
+    "meaning": "The Lord is my shepherd, I lack nothing.",
+    "description": "God guides and provides like a faithful shepherd."
+  },
+  {
+    "id": 3,
+    "reference": "Philippians 4:13",
+    "meaning": "I can do all this through him who gives me strength.",
+    "description": "Our strength to endure and act comes from Christ."
+  },
+  {
+    "id": 4,
+    "reference": "Jeremiah 29:11",
+    "meaning": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "description": "God has good plans and a hope-filled future for His people."
+  },
+  {
+    "id": 5,
+    "reference": "Romans 8:28",
+    "meaning": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+    "description": "God weaves even hard things for the good of those who love Him."
+  },
+  {
+    "id": 6,
+    "reference": "Proverbs 3:5",
+    "meaning": "Trust in the Lord with all your heart and lean not on your own understanding;",
+    "description": "Rely on God completely rather than your own insight."
+  },
+  {
+    "id": 7,
+    "reference": "Isaiah 41:10",
+    "meaning": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+    "description": "God's presence removes fear; He strengthens and upholds."
+  },
+  {
+    "id": 8,
+    "reference": "Psalm 46:1",
+    "meaning": "God is our refuge and strength, an ever-present help in trouble.",
+    "description": "In trouble, God is a near and reliable shelter."
+  },
+  {
+    "id": 9,
+    "reference": "Matthew 11:28",
+    "meaning": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "description": "Jesus invites the weary to find true rest in Him."
+  },
+  {
+    "id": 10,
+    "reference": "1 Peter 5:7",
+    "meaning": "Cast all your anxiety on him because he cares for you.",
+    "description": "Give your worries to God because He cares deeply."
+  },
+  {
+    "id": 11,
+    "reference": "Romans 12:2",
+    "meaning": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.",
+    "description": "Let God reshape your thinking to discern His will."
+  },
+  {
+    "id": 12,
+    "reference": "Joshua 1:9",
+    "meaning": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+    "description": "God's constant presence empowers courage."
+  },
+  {
+    "id": 13,
+    "reference": "Psalm 119:105",
+    "meaning": "Your word is a lamp for my feet, a light on my path.",
+    "description": "God's Word guides daily steps and life direction."
+  },
+  {
+    "id": 14,
+    "reference": "Matthew 6:33",
+    "meaning": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+    "description": "Prioritize God's kingdom; He provides what you need."
+  },
+  {
+    "id": 15,
+    "reference": "Romans 10:9",
+    "meaning": "If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.",
+    "description": "Salvation comes through confessing and believing in Jesus."
+  },
+  {
+    "id": 16,
+    "reference": "Ephesians 2:8",
+    "meaning": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—",
+    "description": "We're saved by God's gift of grace, received by faith."
+  },
+
+  {
+    "id": 17,
+    "reference": "2 Corinthians 5:17",
+    "meaning": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+    "description": "In Christ, we are made new; the old life is gone."
+  },
+  {
+    "id": 18,
+    "reference": "Psalm 34:8",
+    "meaning": "Taste and see that the Lord is good; blessed is the one who takes refuge in him.",
+    "description": "Experience God's goodness by trusting Him."
+  },
+  {
+    "id": 19,
+    "reference": "Philippians 4:6",
+    "meaning": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+    "description": "Trade anxiety for thankful prayer; bring needs to God."
+  },
+  {
+    "id": 20,
+    "reference": "1 John 1:9",
+    "meaning": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+    "description": "Confession brings God's forgiveness and cleansing."
+  },
+  {
+    "id": 21,
+    "reference": "James 1:5",
+    "meaning": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.",
+    "description": "Ask God for wisdom; He gives generously."
+  },
+  {
+    "id": 22,
+    "reference": "Matthew 5:16",
+    "meaning": "In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.",
+    "description": "Live visibly for God's glory through good works."
+  },
+  {
+    "id": 23,
+    "reference": "Isaiah 40:31",
+    "meaning": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+    "description": "Patient hope in God brings renewed strength."
+  },
+  {
+    "id": 24,
+    "reference": "Proverbs 18:10",
+    "meaning": "The name of the Lord is a fortified tower; the righteous run to it and are safe.",
+    "description": "God's character is a secure refuge."
+  },
+  {
+    "id": 25,
+    "reference": "John 14:6",
+    "meaning": "Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.”",
+    "description": "Jesus alone is the way to the Father."
+  },
+  {
+    "id": 26,
+    "reference": "Romans 6:23",
+    "meaning": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
+    "description": "Sin leads to death; God offers eternal life in Christ."
+  },
+  {
+    "id": 27,
+    "reference": "Hebrews 13:8",
+    "meaning": "Jesus Christ is the same yesterday and today and forever.",
+    "description": "Jesus is unchanging and trustworthy forever."
+  },
+  {
+    "id": 28,
+    "reference": "Colossians 3:23",
+    "meaning": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
+    "description": "Work with all your heart as service to God."
+  },
+  {
+    "id": 29,
+    "reference": "Micah 6:8",
+    "meaning": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
+    "description": "God calls us to justice, mercy, and humility."
+  },
+  {
+    "id": 30,
+    "reference": "Psalm 37:4",
+    "meaning": "Take delight in the Lord, and he will give you the desires of your heart.",
+    "description": "Find joy in God, and He aligns and fulfills your desires."
+  },
+  {
+    "id": 31,
+    "reference": "Matthew 22:37",
+    "meaning": "Jesus replied: “Love the Lord your God with all your heart and with all your soul and with all your mind.”",
+    "description": "The greatest commandment calls us to love God fully and completely."
+  },
+  {
+    "id": 32,
+    "reference": "Galatians 5:22-23",
+    "meaning": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.",
+    "description": "The Spirit produces godly character traits in believers."
+  },
+  {
+    "id": 33,
+    "reference": "2 Timothy 1:7",
+    "meaning": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
+    "description": "God empowers us through His Spirit to live boldly with love and discipline."
+  },
+  {
+    "id": 34,
+    "reference": "1 Corinthians 16:14",
+    "meaning": "Do everything in love.",
+    "description": "Love should guide all our actions and decisions."
+  },
+  {
+    "id": 35,
+    "reference": "John 8:12",
+    "meaning": "When Jesus spoke again to the people, he said, “I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.”",
+    "description": "Jesus brings light and guidance, leading us out of darkness into life."
+  },
+  {
+    "id": 36,
+    "reference": "Matthew 28:19-20",
+    "meaning": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.",
+    "description": "The Great Commission — Jesus commands His followers to spread the gospel with His promise of presence."
+  },
+  {
+    "id": 37,
+    "reference": "1 Thessalonians 5:16-18",
+    "meaning": "Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus.",
+    "description": "A call to live with constant joy, prayer, and gratitude."
+  },
+  {
+    "id": 38,
+    "reference": "John 15:5",
+    "meaning": "I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.",
+    "description": "Jesus reminds us that true life and fruitfulness come only by abiding in Him."
+  },
+  {
+    "id": 39,
+    "reference": "Romans 5:8",
+    "meaning": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+    "description": "God's love is proven by Christ's sacrifice even when we were undeserving."
+  },
+  {
+    "id": 40,
+    "reference": "Isaiah 53:5",
+    "meaning": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed.",
+    "description": "A prophecy of Christ's sacrifice that brings forgiveness and healing."
+  },
+  {
+    "id": 41,
+    "reference": "Deuteronomy 31:6",
+    "meaning": "Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you.",
+    "description": "God's constant presence removes fear and gives courage."
+  },
+  {
+    "id": 42,
+    "reference": "Matthew 19:26",
+    "meaning": "Jesus looked at them and said, “With man this is impossible, but with God all things are possible.”",
+    "description": "With God’s power, even the impossible becomes possible."
+  },
+  {
+    "id": 43,
+    "reference": "2 Thessalonians 3:3",
+    "meaning": "But the Lord is faithful, and he will strengthen you and protect you from the evil one.",
+    "description": "God’s faithfulness is our security and protection against evil."
+  },
+  {
+    "id": 44,
+    "reference": "Isaiah 26:3",
+    "meaning": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+    "description": "Trusting God brings peace of mind even in troubled times."
+  },
+  {
+    "id": 45,
+    "reference": "1 Corinthians 10:13",
+    "meaning": "No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it.",
+    "description": "God provides strength and a way out in times of testing and temptation."
+  },
+  {
+    "id": 46,
+    "reference": "Psalm 55:22",
+    "meaning": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.",
+    "description": "God invites us to give Him our burdens, promising strength and stability."
+  },
+  {
+    "id": 47,
+    "reference": "John 16:33",
+    "meaning": "“I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.”",
+    "description": "Jesus reminds us that despite troubles, we have peace and victory in Him."
+  },
+  {
+    "id": 48,
+    "reference": "Psalm 121:1-2",
+    "meaning": "I lift up my eyes to the mountains—where does my help come from? My help comes from the Lord, the Maker of heaven and earth.",
+    "description": "Our ultimate help and strength come from God, the Creator."
+  },
+  {
+    "id": 49,
+    "reference": "Proverbs 16:3",
+    "meaning": "Commit to the Lord whatever you do, and he will establish your plans.",
+    "description": "Surrendering our work to God brings guidance and success aligned with His will."
+  },
+  {
+    "id": 50,
+    "reference": "Zephaniah 3:17",
+    "meaning": "The Lord your God is with you, the Mighty Warrior who saves. He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with singing.",
+    "description": "God delights in His people and covers them with love and salvation."
+  },
+  {
+    "id": 51,
+    "reference": "Matthew 28:20",
+    "meaning": "And surely I am with you always, to the very end of the age.",
+    "description": "Jesus promises His unending presence with us, wherever we go."
+  },
+  {
+    "id": 52,
+    "reference": "Lamentations 3:22-23",
+    "meaning": "Because of the Lord's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.",
+    "description": "God's mercies are fresh every day, reminding us of His faithful love."
+  },
+  {
+    "id": 53,
+    "reference": "1 Corinthians 16:13-14",
+    "meaning": "Be on your guard; stand firm in the faith; be courageous; be strong. Do everything in love.",
+    "description": "A call to stay strong and courageous, always motivated by love."
+  },
+  {
+    "id": 54,
+    "reference": "Isaiah 43:2",
+    "meaning": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze.",
+    "description": "God promises to be with us in every trial and challenge."
+  },
+  {
+    "id": 55,
+    "reference": "Psalm 91:1-2",
+    "meaning": "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty. I will say of the Lord, 'He is my refuge and my fortress, my God, in whom I trust.'",
+    "description": "A reminder that God Himself is our ultimate place of safety and rest."
+  },
+  {
+    "id": 56,
+    "reference": "Isaiah 40:29",
+    "meaning": "He gives strength to the weary and increases the power of the weak.",
+    "description": "When we feel tired and weak, God renews our strength."
+  },
+  {
+    "id": 57,
+    "reference": "John 14:27",
+    "meaning": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
+    "description": "Jesus gives us true peace that the world cannot offer."
+  },
+  {
+    "id": 58,
+    "reference": "Romans 15:13",
+    "meaning": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.",
+    "description": "Trusting God fills us with hope, joy, and peace through the Spirit."
+  },
+  {
+    "id": 59,
+    "reference": "Psalm 27:1",
+    "meaning": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
+    "description": "God's presence removes fear and gives us confidence to face anything."
+  },
+  {
+    "id": 60,
+    "reference": "Isaiah 12:2",
+    "meaning": "Surely God is my salvation; I will trust and not be afraid. The Lord, the Lord himself, is my strength and my defense; he has become my salvation.",
+    "description": "A reminder that God Himself is our strength, protector, and salvation."
+  }
+]

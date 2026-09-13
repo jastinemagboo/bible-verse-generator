@@ -359,5 +359,247 @@
     "reference": "Isaiah 12:2",
     "meaning": "Surely God is my salvation; I will trust and not be afraid. The Lord, the Lord himself, is my strength and my defense; he has become my salvation.",
     "description": "A reminder that God Himself is our strength, protector, and salvation."
-  }
+  },
+  [
+    {
+      "id": 61,
+      "reference": "Psalm 46:10",
+      "meaning": "Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth.",
+      "description": "In moments of uncertainty, we can rest and remember God's sovereignty."
+    },
+    {
+      "id": 62,
+      "reference": "Proverbs 3:6",
+      "meaning": "In all your ways submit to him, and he will make your paths straight.",
+      "description": "When we acknowledge God in everything, He guides our direction."
+    },
+    {
+      "id": 63,
+      "reference": "Psalm 34:18",
+      "meaning": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+      "description": "God draws near to those who are hurting and brokenhearted."
+    },
+    {
+      "id": 64,
+      "reference": "Psalm 30:5",
+      "meaning": "Weeping may stay for the night, but rejoicing comes in the morning.",
+      "description": "Pain may be temporary, and God can bring joy after seasons of sorrow."
+    },
+    {
+      "id": 65,
+      "reference": "Psalm 56:3",
+      "meaning": "When I am afraid, I put my trust in you.",
+      "description": "Fear can become an opportunity to place our trust in God."
+    },
+    {
+      "id": 66,
+      "reference": "Psalm 62:8",
+      "meaning": "Trust in him at all times, you people; pour out your hearts to him, for God is our refuge.",
+      "description": "God welcomes our honest hearts and remains a safe place to turn."
+    },
+    {
+      "id": 67,
+      "reference": "Psalm 118:24",
+      "meaning": "The Lord has done it this very day; let us rejoice today and be glad.",
+      "description": "Every day is an opportunity to recognize God's goodness and rejoice."
+    },
+    {
+      "id": 68,
+      "reference": "Psalm 139:14",
+      "meaning": "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.",
+      "description": "God created each person intentionally and wonderfully."
+    },
+    {
+      "id": 69,
+      "reference": "Proverbs 16:9",
+      "meaning": "In their hearts humans plan their course, but the Lord establishes their steps.",
+      "description": "We can make plans while trusting God to guide where our lives ultimately lead."
+    },
+    {
+      "id": 70,
+      "reference": "Proverbs 19:21",
+      "meaning": "Many are the plans in a person's heart, but it is the Lord's purpose that prevails.",
+      "description": "Our plans may change, but God's greater purpose remains."
+    },
+    {
+      "id": 71,
+      "reference": "Isaiah 41:13",
+      "meaning": "For I am the Lord your God who takes hold of your right hand and says to you, Do not fear; I will help you.",
+      "description": "God reassures us that we are not alone when facing difficult moments."
+    },
+    {
+      "id": 72,
+      "reference": "Isaiah 43:1",
+      "meaning": "Do not fear, for I have redeemed you; I have summoned you by name; you are mine.",
+      "description": "God knows us personally and reminds us that we belong to Him."
+    },
+    {
+      "id": 73,
+      "reference": "Jeremiah 33:3",
+      "meaning": "Call to me and I will answer you and tell you great and unsearchable things you do not know.",
+      "description": "God invites us to seek Him and trust Him for answers beyond our understanding."
+    },
+    {
+      "id": 74,
+      "reference": "Matthew 6:34",
+      "meaning": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
+      "description": "Jesus reminds us to focus on today instead of being consumed by tomorrow."
+    },
+    {
+      "id": 75,
+      "reference": "Matthew 7:7",
+      "meaning": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
+      "description": "Jesus encourages us to approach God with persistence and faith."
+    },
+    {
+      "id": 76,
+      "reference": "Matthew 11:29",
+      "meaning": "Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.",
+      "description": "Jesus offers rest and teaches us to follow His gentle and humble way."
+    },
+    {
+      "id": 77,
+      "reference": "Matthew 19:14",
+      "meaning": "Let the little children come to me and do not hinder them, for the kingdom of heaven belongs to such as these.",
+      "description": "Jesus welcomes those who approach Him with humility and trust."
+    },
+    {
+      "id": 78,
+      "reference": "Mark 10:27",
+      "meaning": "Jesus looked at them and said, With man this is impossible, but not with God; all things are possible with God.",
+      "description": "God's power is greater than the limitations we face."
+    },
+    {
+      "id": 79,
+      "reference": "John 10:10",
+      "meaning": "I have come that they may have life, and have it to the full.",
+      "description": "Jesus offers a life that is full, meaningful, and rooted in Him."
+    },
+    {
+      "id": 80,
+      "reference": "John 13:34",
+      "meaning": "A new command I give you: Love one another. As I have loved you, so you must love one another.",
+      "description": "Jesus calls us to love others with the same selfless love He showed us."
+    },
+    {
+      "id": 81,
+      "reference": "John 14:1",
+      "meaning": "Do not let your hearts be troubled. You believe in God; believe also in me.",
+      "description": "Jesus calls us to replace troubled hearts with trust in Him."
+    },
+    {
+      "id": 82,
+      "reference": "John 15:12",
+      "meaning": "My command is this: Love each other as I have loved you.",
+      "description": "Christ calls us to reflect His love in the way we treat others."
+    },
+    {
+      "id": 83,
+      "reference": "Romans 8:38-39",
+      "meaning": "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God.",
+      "description": "Nothing in creation can separate us from God's unfailing love."
+    },
+    {
+      "id": 84,
+      "reference": "Romans 12:12",
+      "meaning": "Be joyful in hope, patient in affliction, faithful in prayer.",
+      "description": "Hope, patience, and prayer help us remain faithful through difficult seasons."
+    },
+    {
+      "id": 85,
+      "reference": "Romans 15:7",
+      "meaning": "Accept one another, then, just as Christ accepted you, in order to bring praise to God.",
+      "description": "We are called to extend the same acceptance and grace we have received from Christ."
+    },
+    {
+      "id": 86,
+      "reference": "1 Corinthians 13:4",
+      "meaning": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+      "description": "Biblical love is patient, kind, humble, and focused on others."
+    },
+    {
+      "id": 87,
+      "reference": "1 Corinthians 13:13",
+      "meaning": "And now these three remain: faith, hope and love. But the greatest of these is love.",
+      "description": "Faith, hope, and love endure, with love standing above them all."
+    },
+    {
+      "id": 88,
+      "reference": "2 Corinthians 12:9",
+      "meaning": "My grace is sufficient for you, for my power is made perfect in weakness.",
+      "description": "God's grace is enough, and His strength can be revealed through our weaknesses."
+    },
+    {
+      "id": 89,
+      "reference": "Galatians 6:9",
+      "meaning": "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.",
+      "description": "Keep doing what is good even when results are slow or difficult to see."
+    },
+    {
+      "id": 90,
+      "reference": "Ephesians 4:32",
+      "meaning": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+      "description": "Christ's forgiveness teaches us to extend kindness, compassion, and forgiveness to others."
+    },
+    {
+      "id": 91,
+      "reference": "Philippians 4:8",
+      "meaning": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—think about such things.",
+      "description": "We are encouraged to fill our minds with things that are good, pure, and worthy."
+    },
+    {
+      "id": 92,
+      "reference": "Philippians 4:19",
+      "meaning": "And my God will meet all your needs according to the riches of his glory in Christ Jesus.",
+      "description": "God faithfully provides for the needs of His people."
+    },
+    {
+      "id": 93,
+      "reference": "Colossians 3:15",
+      "meaning": "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.",
+      "description": "Let Christ's peace guide your heart while cultivating a spirit of gratitude."
+    },
+    {
+      "id": 94,
+      "reference": "1 Thessalonians 5:11",
+      "meaning": "Therefore encourage one another and build each other up, just as in fact you are doing.",
+      "description": "We are called to encourage and strengthen the people around us."
+    },
+    {
+      "id": 95,
+      "reference": "2 Timothy 1:9",
+      "meaning": "He has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace.",
+      "description": "God calls us according to His purpose and grace, not because we earned it."
+    },
+    {
+      "id": 96,
+      "reference": "Hebrews 11:1",
+      "meaning": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+      "description": "Faith means trusting God even when we cannot yet see the outcome."
+    },
+    {
+      "id": 97,
+      "reference": "Hebrews 12:1",
+      "meaning": "Let us run with perseverance the race marked out for us.",
+      "description": "Following God requires perseverance and a willingness to keep moving forward."
+    },
+    {
+      "id": 98,
+      "reference": "James 1:17",
+      "meaning": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights.",
+      "description": "Every good gift ultimately comes from God, the source of goodness."
+    },
+    {
+      "id": 99,
+      "reference": "1 Peter 5:8",
+      "meaning": "Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.",
+      "description": "Stay spiritually alert and grounded in faith when facing temptation and opposition."
+    },
+    {
+      "id": 100,
+      "reference": "Revelation 21:4",
+      "meaning": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away.",
+      "description": "God promises a future where suffering, death, and pain will come to an end."
+    }
+  ]
 ]
